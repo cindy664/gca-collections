@@ -1,0 +1,12 @@
+[
+  {
+    "id": "SCHOOL_1",
+    "programName": "Example Program",
+    "abbreviation": "EX",
+    "phone": "+1-555-0000",
+    "costCommunication": "$450/month",
+    "date_startDate": "2026-01-09",
+    "logo": "https://example.com/logo1.png",
+    "schoolFullAddress": "123 Street, City, Country"
+  }
+]        
